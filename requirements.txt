@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+celery
+redis
+
+
+python-multipart
+aiofiles
+PyMuPDF             
+
+google-genai
+
+pydantic
+httpx
+python-dotenv
